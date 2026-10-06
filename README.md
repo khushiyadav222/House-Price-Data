@@ -206,7 +206,8 @@ The following visualizations can be created from the dataset:
 
 ### House Price Analysis Dashboard
 
-![House Price Analysis](https://raw.githubusercontent.com/khushiyadav222/train-data/main/house-price-analysis.png)
+![House Price Analysis]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0c74fae-2395-4dc5-90cb-4badb2a03085" />
+
 
 > Add your own analysis chart/dashboard to this section after creating it from the dataset.
 
