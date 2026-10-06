@@ -1,6 +1,6 @@
 # 🏠 House Price Data Analysis
 
-<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/9d8e78b0-1565-40c9-ad8c-b27c2ba4d73a" />
+<img width="1024" height="800" alt="image" src="https://github.com/user-attachments/assets/9d8e78b0-1565-40c9-ad8c-b27c2ba4d73a" />
 
 
 ## 📊 House Prices Prediction & Exploratory Data Analysis
