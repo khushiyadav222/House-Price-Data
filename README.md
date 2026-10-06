@@ -1,5 +1,8 @@
 # 🏠 House Price Data Analysis
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d8e78b0-1565-40c9-ad8c-b27c2ba4d73a" />
+
+
 ## 📊 House Prices Prediction & Exploratory Data Analysis
 
 This project focuses on analyzing residential housing data and understanding the factors that influence **house sale prices**.
